@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Jaya Manoj
 
-<!--
-**jai-codes5/jai-codes5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student  
+💻 Python | Java | MySQL  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Connect with me
+- LinkedIn: https://linkedin.com/in/jaya-manoj-2805s1  
+
+---
+
+## 🛠️ Skills
+- Programming: Python, Java  
+- Database: MySQL  
+- Web: HTML  
+
+---
+
+## 🚀 Projects
+- Coming Soon...
+
+---
+
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=jai-codes5&show_icons=true)
